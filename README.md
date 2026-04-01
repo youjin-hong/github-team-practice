@@ -1,1 +1,3 @@
-# robot_basic_practice
+# 광운대학교 로봇기초실습 5주차 과제입니다. 
+- 팀원 1: 홍유진(소유자)
+- 팀원 2: 김가현(collaborator)
